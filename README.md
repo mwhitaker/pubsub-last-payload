@@ -5,7 +5,7 @@ I often invoke cloud functions that are triggered by Pub/Sub directly in the GCP
 
 Host the script pubsub_history.js on a CDN and create a bookmark
 
-![Edit Bookmark](edit_bookmark.gif)
+![Edit Bookmark](edit_bookmark.png)
 
 with the following URL:
 
